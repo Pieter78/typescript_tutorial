@@ -1,4 +1,3 @@
-/* eslint-disable @typescript-eslint/explicit-member-accessibility */
 import { User } from './../../entity/User'
 import { Resolver, Query, Mutation, Arg } from 'type-graphql'
 import bcrypt from 'bcryptjs'

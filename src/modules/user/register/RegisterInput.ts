@@ -14,7 +14,7 @@ export class RegisterInput {
 
   @Field()
   @IsEmail()
-  @IsEmailAlreadyExist()
+  @IsEmailAlreadyExist({ message: 'Email is already in use' })
   email: string
 
   @Field()
