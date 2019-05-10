@@ -4,7 +4,7 @@
   "description": "Typegraph tutorial",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Pieter78/typescript_tutorial.git"
   },
   "main": "index.js",
   "author": "Pieter Overbeek",
