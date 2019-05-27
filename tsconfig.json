@@ -25,6 +25,7 @@
     "baseUrl": ".",
     "rootDir": "src"
   },
+  "typeRoots": ["node_modules"],
   "exclude": ["node_modules"],
   "include": ["./src/**/*.tsx", "./src/**/*.ts"]
 }
