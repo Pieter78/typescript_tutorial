@@ -18,5 +18,10 @@
   },
   "[typescriptreact]": {
     "editor.formatOnSave": false
-  }
+  },
+  "javascript.preferences.importModuleSpecifier": "relative",
+  "typescript.preferences.importModuleSpecifier": "relative",
+  "dimmer.enabled": true,
+  "dimmer.opacity": 75,
+  "dimmer.when": "selection"
 }
